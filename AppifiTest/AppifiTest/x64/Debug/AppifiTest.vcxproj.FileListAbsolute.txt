@@ -1,0 +1,3 @@
+C:\Users\mattb\source\repos\AppifiTest\AppifiTest\x64\Debug\AppifiTest.vcxproj.AssemblyReference.cache
+C:\Users\mattb\source\repos\AppifiTest\AppifiTest\x64\Debug\AppifiTest.MyForm.resources
+C:\Users\mattb\source\repos\AppifiTest\AppifiTest\x64\Debug\AppifiTest.vcxproj.GenerateResource.cache
